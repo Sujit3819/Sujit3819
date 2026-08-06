@@ -12,10 +12,10 @@ Along with backend development, I have experience building full-stack applicatio
 
 I have a strong foundation in **Object-Oriented Programming, Data Structures & Algorithms, and System Design fundamentals**, and I enjoy solving real-world problems through clean, efficient, and maintainable code.
 
-- 🎓 B.Tech Computer Science & Engineering (2025)
-- 💻 Backend Developer | Java Full Stack Developer
-- 🌱 Currently exploring Cloud Technologies, CI/CD and System Design
-- 🚀 Interested in Software Engineering and Scalable Backend Systems
+-  B.Tech Computer Science & Engineering (2025)
+-  Backend Developer | Java Full Stack Developer
+-  Currently exploring Cloud Technologies, CI/CD and System Design
+-  Interested in Software Engineering and Scalable Backend Systems
 
 
 ## Tech Stack
